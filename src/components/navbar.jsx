@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="ms-[50px] mt-4 mb-3">
         <Link to="/">
           <img
-            src="../../public/assets/logo2.jpg"
+            src="https://brandlogos.net/wp-content/uploads/2017/02/pizza_hut-logo_brandlogos.net_kuxu6-512x478.png"
             alt=""
             className="w-12 h-auto object-cover rounded-full "
           />
